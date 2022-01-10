@@ -1,0 +1,9 @@
+{
+	"ip":"creepercraft.mcalias.com",
+	"port": 40104,
+	"name": "CreepyGuy123",
+	"auto-night-skip":"true",
+	"login-enabled":"true",
+	"register-cmd":"/register (Imawesome(remember_no_spaces))
+	"login-cmd":"/login (Imawesome)"
+}
